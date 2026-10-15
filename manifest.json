@@ -1,25 +1,26 @@
 {
   "version": 4,
-  "assets": "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1",
+  "assets": "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1",
   "app": "pi-interpreter",
-  "global": "__sveltekit_valoxe",
-  "start": "_app/immutable/entry/start.CaP8UoAV.js",
-  "appEntry": "_app/immutable/entry/app.ChzV12rb.js",
+  "global": "__sveltekit_7hk7sr",
+  "start": "_app/immutable/entry/start.C9ToQcbZ.js",
+  "appEntry": "_app/immutable/entry/app.Bf3yGnyx.js",
   "styles": [],
   "scripts": [],
   "preloads": [
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/entry/start.CaP8UoAV.js",
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/chunks/CYZ1ENvu.js",
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/chunks/na-Oqdcx.js",
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/chunks/DK4_ttQw.js",
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/entry/app.ChzV12rb.js",
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/chunks/D9ZLV0mK.js",
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/chunks/Dwsh6vRw.js",
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/chunks/6MI2XUp1.js",
-    "https://yissok.github.io/pi-interpreter-dist/releases/63dc92d08832b9b6e6804fee92b59187c4a42799-38715525886-1/_app/immutable/nodes/0.CRiRneHV.js"
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/entry/start.C9ToQcbZ.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/CEE5MbCT.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/BnL4Mm1E.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/CDPZyq3G.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/entry/app.Bf3yGnyx.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/CBWV6Gyw.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/DGbeJnR4.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/DzdfRO4-.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/LzvsoqGH.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/nodes/0.teF9gJXo.js"
   ],
   "social": {
     "title": "Pi Interpreter",
-    "description": "An interactive website created with Project Factory."
+    "description": "Send a Rust function and a string to your Pi, then inspect the result."
   }
 }

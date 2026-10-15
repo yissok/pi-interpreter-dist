@@ -1,0 +1,26 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1",
+  "app": "pi-interpreter",
+  "global": "__sveltekit_7hk7sr",
+  "start": "_app/immutable/entry/start.C9ToQcbZ.js",
+  "appEntry": "_app/immutable/entry/app.Bf3yGnyx.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/entry/start.C9ToQcbZ.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/CEE5MbCT.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/BnL4Mm1E.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/CDPZyq3G.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/entry/app.Bf3yGnyx.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/CBWV6Gyw.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/DGbeJnR4.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/DzdfRO4-.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/chunks/LzvsoqGH.js",
+    "https://yissok.github.io/pi-interpreter-dist/releases/d3ea6b177ea1559f8f0b83f7b5a797f0dfffc5bf-38726647485-1/_app/immutable/nodes/0.teF9gJXo.js"
+  ],
+  "social": {
+    "title": "Pi Interpreter",
+    "description": "Send a Rust function and a string to your Pi, then inspect the result."
+  }
+}
